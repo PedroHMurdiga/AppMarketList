@@ -6,7 +6,7 @@ public partial class NovoProduto2 : ContentPage
 {
 	public NovoProduto2()
 	{
-        InitializeComponent();
+		InitializeComponent();
 	}
 
 	private async void ToolbarItem_Clicked(object sender, EventArgs e)
